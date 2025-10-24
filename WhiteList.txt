@@ -86,6 +86,7 @@
 @@||play.googleapis.com^
 @@||accounts.youtube.com^
 @@||recaptcha.net^
+@@||*.withgoogle.com^
 
 # ----------------
 # MICROSOFT / WINDOWS / OFFICE
