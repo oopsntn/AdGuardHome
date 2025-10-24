@@ -44,6 +44,8 @@
 @@||weather.hicloud.com^
 @@||update.dbankcdn.com^
 @@||query.hicloud.com^
+@@||upfile-dra.platform.hicloud.com^
+@@||oauth-login.platform.dbankcloud.com^
 
 # ----------------
 # APPLE / IOS / MACOS / ICLOUD / APNS
