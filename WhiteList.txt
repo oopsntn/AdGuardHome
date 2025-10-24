@@ -138,6 +138,10 @@
 @@||update.coccoc.com^
 @@||api.coccoc.com^
 
+@@||zework.com^
+@@||app.zework.com^
+@@||note.zework.com^
+
 # ================================
 # End of whitelist
 # ================================
