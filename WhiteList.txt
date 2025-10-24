@@ -132,93 +132,44 @@
 @@||zdn.vn^
 
 # ----------------
-# Microsoft / Windows
+# Microsoft
 # ----------------
-@@||dns.msftncsi.com^
-@@||www.msftconnecttest.com^
-@@||settings-win.data.microsoft.com^
-@@||vortex.data.microsoft.com^
-@@||ctldl.windowsupdate.com^
+@@||microsoft.com^
+@@||office.com^
+@@||live.com^
+@@||windowsupdate.com^
 @@||mobile.events.data.microsoft.com^
+@@||teams.cdn.office.net^
+
+# ----------------
+# Apple / iCloud / APNS
+# ----------------
+@@||icloud.com^
+@@||apple.com^
+@@||hicloud.com^
 
 # ----------------
 # Google / Firebase / Android
 # ----------------
-@@||firebaselogging-pa.googleapis.com^
-@@||firebaseremoteconfig.googleapis.com^
-@@||locationhistory-pa.googleapis.com^
-@@||people-pa.googleapis.com^
-@@||android.googleapis.com^
-@@||firebaseinstallations.googleapis.com^
-@@||fcm.googleapis.com^
-@@||play.googleapis.com^
-@@||clients4.google.com^
-@@||www.googleapis.com^
-
-# ----------------
-# Apple / iCloud / iOS / APNS
-# ----------------
-@@||mask-api.icloud.com^
-@@||hwid-dra.platform.hicloud.com^
-@@||guzzoni.apple.com^
-@@||hkhkg2.icloud-content.com^
-@@||p12-contacts.icloud.com^
-@@||p12-photos.icloud.com^
-@@||p12-cloudkit.icloud.com^
-@@||p12-metrics.icloud.com^
-@@||init-p01st.push.apple.com^
+@@||googleapis.com^
+@@||gstatic.com^
+@@||android.com^
 
 # ----------------
 # Alibaba / CDN
 # ----------------
-@@||gw.alicdn.com^
-@@||img.alicdn.com^
-@@||g.alicdn.com^
-@@||acs.m.taobao.com^
-@@||log.mmstat.com^
-
-# ----------------
-# Pendo
-# ----------------
-@@||data.pendo.io^
-@@||app.pendo.io^
-@@||collect.pendo.io^
+@@||alicdn.com^
+@@||taobao.com^
 
 # ----------------
 # JetBrains / VS Code / Exp-tas
 # ----------------
-@@||default.exp-tas.com^
-@@||analytics.services.jetbrains.com^
-@@||frameworks.jetbrains.com^
-@@||api.jetbrains.ai^
-@@||main.vscode-cdn.net^
-@@||update.code.visualstudio.com^
-@@||vscode.blob.core.windows.net^
-@@||az764295.vo.msecnd.net^
+@@||jetbrains.com^
+@@||vscode-cdn.net^
+@@||visualstudio.com^
 
 # ----------------
-# Techcombank / Adobe / Dynatrace
+# Techcombank
 # ----------------
-@@||aemapp.techcombank.comnull^
-@@||identitym-tcb.techcombank.com.vn^
-@@||aemapp.techcombank.com^
-@@||edgem-tcb.techcombank.com.vn^
-@@||assets.adobedtm.com^
-@@||dynatracesso.techcombank.com.vn^
-@@||auth.techcombank.com.vn^
-@@||api.techcombank.com.vn^
-@@||mobileapi.techcombank.com.vn^
-
-# ----------------
-# Comodo / OCSP
-# ----------------
-@@||ocsp.comodoca.com^
-@@||crl.comodoca.com^
-
-# ----------------
-# Edge CDN / NTP / sync
-# ----------------
-@@||s8.v2.ntp.edgcdn.net^
-@@||v2.ntp.edgcdn.net^
-@@||*.edgcdn.net^
+@@||techcombank.com.vn^
 
