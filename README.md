@@ -1,2 +1,2 @@
 # AdGuardHome
-Config
+AdGuardHome Config (WhiteList)
