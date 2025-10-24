@@ -128,9 +128,12 @@
 @@||visualstudio.com^
 
 # ----------------
-# OTHER / INTERNATIONAL
+# CocCoc
 # ----------------
-@@||united.com^
+@@||coccoc.com^
+@@||browser-sync.coccoc.com^
+@@||update.coccoc.com^
+@@||api.coccoc.com^
 
 # ================================
 # End of whitelist
