@@ -1,6 +1,6 @@
 # ================================
 # ADGUARD HOME WHITELIST - MULTI ECOSYSTEM 2025
-# Apple • Xiaomi • Huawei • Google • Microsoft • Techcombank • CDN
+# Apple • Xiaomi • Huawei • Google • Microsoft • Vietnam Apps • Global Tools
 # ================================
 
 # ----------------
@@ -46,6 +46,7 @@
 @@||query.hicloud.com^
 @@||upfile-dra.platform.hicloud.com^
 @@||oauth-login.platform.dbankcloud.com^
+@@||com.huawei.cloud.hota^
 
 # ----------------
 # APPLE / IOS / MACOS / ICLOUD / APNS
@@ -89,8 +90,16 @@
 @@||*.withgoogle.com^
 @@||google.com.vn^
 @@||optimizationguide-pa.googleapis.com^
+@@||maps.googleapis.com^
+@@||photos.google.com^
+@@||translate.googleapis.com^
+@@||lens.google.com^
+@@||meet.google.com^
+@@||wallet.google.com^
+@@||authenticator.google.com^
+
 # ----------------
-# MICROSOFT / WINDOWS / OFFICE
+# MICROSOFT / WINDOWS / OFFICE / EDGE
 # ----------------
 @@||microsoft.com^
 @@||office.com^
@@ -98,15 +107,38 @@
 @@||windowsupdate.com^
 @@||mobile.events.data.microsoft.com^
 @@||teams.cdn.office.net^
-
+@@||edge.microsoft.com^
+@@||bing.com^
+@@||onedrive.live.com^
+@@||outlook.com^
+@@||hotmail.com^
 
 # ----------------
-# TECHCOMBANK / VIETNAM APPS
+# VIETNAM BANKING / PAYMENT
 # ----------------
 @@||techcombank.com.vn^
+@@||momo.vn^
+@@||momoapp.vn^
+@@||momocdn.net^
+@@||mbbank.com.vn^
+@@||vcb.com.vn^
+@@||vietcombank.com.vn^
+@@||vpbank.com.vn^
+@@||liobank.vn^
+@@||zalopay.vn^
+@@||viettelmoney.vn^
+@@||viettel.vn^
+@@||vietteltelecom.vn^
 
 # ----------------
-# CDN / COMODO / EDGE / INFRASTRUCTURE
+# VIETNAM SERVICES / EDUCATION / GOVERNMENT
+# ----------------
+@@||fpt.edu.vn^
+@@||vneid.gov.vn^
+@@||vneid.vn^
+
+# ----------------
+# CDN / CERTIFICATES / INFRASTRUCTURE
 # ----------------
 @@||alicdn.com^
 @@||edgcdn.net^
@@ -118,30 +150,102 @@
 @@||akamaihd.net^
 @@||cloudfront.net^
 @@||fastly.net^
+@@||fastly-edge.com^
 @@||cloudflare.com^
 @@||cloudflare.net^
 @@||cloudflare-dns.com^
 @@||amazonaws.com^
 @@||digicert.com^
+@@||cdn.jsdelivr.net^
 @@||github.com^
 @@||githubassets.com^
 @@||githubusercontent.com^
 @@||vscode-cdn.net^
 @@||jetbrains.com^
 @@||visualstudio.com^
+@@||cdn77.org^
+@@||cdn20.com^
+@@||whoami.akamai.net^
 
 # ----------------
-# CocCoc
+# Coccoc / Brave / Browser-related
 # ----------------
 @@||coccoc.com^
 @@||browser-sync.coccoc.com^
 @@||update.coccoc.com^
 @@||api.coccoc.com^
+@@||safe-browsing-api.coccoc.com^
+@@||go-updater.brave.com^
+@@||brave.com^
+@@||extensions.brave.com^
 
+# ----------------
+# DEVELOPER TOOLS / SERVICES
+# ----------------
+@@||postman.com^
+@@||mongodb.com^
+@@||cloud.mongodb.com^
+@@||notion.so^
+@@||notion.site^
+@@||jetbrains.com^
+@@||webstorm.jetbrains.com^
+@@||visualstudio.com^
+@@||chat.openai.com^
+@@||openai.com^
+@@||cdn.openai.com^
+
+# ----------------
+# MESSAGING & SOCIAL
+# ----------------
+@@||telegram.org^
+@@||t.me^
+@@||web.telegram.org^
+@@||facebook.com^
+@@||fbcdn.net^
+@@||messenger.com^
+@@||chat.zalo.me^
+@@||zalo.me^
+@@||cdninstagram.com^
+@@||instagram.com^
+@@||threads.net^
+@@||whatsapp.com^
+
+# ----------------
+# MUSIC & MEDIA
+# ----------------
+@@||spotify.com^
+@@||scdn.co^
+@@||soundcloud.com^
+@@||sndcdn.com^
+@@||music.youtube.com^
+@@||youtube.com^
+@@||googlevideo.com^
+@@||ytimg.com^
+@@||i.ytimg.com^
+@@||play.google.com^
+
+# ----------------
+# EMAIL / MAIL SERVICES
+# ----------------
+@@||gmail.com^
+@@||mail.google.com^
+@@||proton.me^
+@@||icloudmail.com^
+@@||outlook.live.com^
+@@||hotmail.com^
+@@||yahoo.com^
+
+# ----------------
+# MISC / UTILITIES / SAFE
+# ----------------
 @@||zework.com^
 @@||app.zework.com^
 @@||note.zework.com^
+@@||flstudio.com^
+@@||image-line.com^
+@@||adguard.com^
+@@||adguard-dns.io^
 
 # ================================
-# End of whitelist
+# End of Whitelist
 # ================================
