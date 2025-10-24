@@ -139,6 +139,7 @@
 @@||settings-win.data.microsoft.com^
 @@||vortex.data.microsoft.com^
 @@||ctldl.windowsupdate.com^
+@@||mobile.events.data.microsoft.com^
 
 # ----------------
 # Google / Firebase / Android
