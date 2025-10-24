@@ -88,6 +88,7 @@
 @@||recaptcha.net^
 @@||*.withgoogle.com^
 @@||google.com.vn^
+@@||optimizationguide-pa.googleapis.com^
 # ----------------
 # MICROSOFT / WINDOWS / OFFICE
 # ----------------
