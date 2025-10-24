@@ -97,6 +97,7 @@
 @@||meet.google.com^
 @@||wallet.google.com^
 @@||authenticator.google.com^
+@@||*.googleapis.com^
 
 # ----------------
 # MICROSOFT / WINDOWS / OFFICE / EDGE
